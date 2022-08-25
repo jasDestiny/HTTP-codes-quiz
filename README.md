@@ -22,4 +22,6 @@ An MCQ quiz that helps to learn HTTP codes faster than conventional learning
 
 5 Toggle off randomize question order
 
-6 DM me if you can suggest any new feature
+6 Reverse quiz with status condition being the question and the code as options
+
+7 DM me if you can suggest any new feature
