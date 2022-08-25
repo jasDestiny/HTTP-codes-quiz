@@ -1,4 +1,4 @@
-# HTTP-codes-quiz
+# HTTP-codes-quiz (Stable version v1.0.0)
 An MCQ quiz that helps to learn HTTP codes faster than conventional learning
 
 # Installation and running
