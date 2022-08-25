@@ -1,6 +1,16 @@
 # HTTP-codes-quiz
 An MCQ quiz that helps to learn HTTP codes faster than conventional learning
 
+# Installation and running
+
+1 Use git to clone the repository on to your pc 
+
+2 Install the latest version of python
+
+3 cd to the installed directory
+
+4 Run the program using the command > python http_quiz.py
+
 # Features
 1 Randomized order of HTTP codes
 
