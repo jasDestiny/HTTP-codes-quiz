@@ -3,7 +3,7 @@ An MCQ quiz that helps to learn HTTP codes faster than conventional learning
 
 # Installation and running
 
-1 Use git to clone the repository on to your pc 
+1 Use git to clone the repository on to your PC 
 
 2 Install the latest version of python
 
