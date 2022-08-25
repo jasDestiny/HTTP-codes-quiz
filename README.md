@@ -18,6 +18,8 @@ An MCQ quiz that helps to learn HTTP codes faster than conventional learning
 
 3 Alter the number of options for each questions
 
-4 Toggle off randomize question order
+4 Alter the number of questions being asked
 
-3 DM me if you can suggest any new feature
+5 Toggle off randomize question order
+
+6 DM me if you can suggest any new feature
